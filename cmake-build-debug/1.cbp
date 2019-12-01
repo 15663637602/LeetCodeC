@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="1"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/CProject/1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/mingw-w64/mingw64/bin/mingw32-make.exe -f &quot;D:/CProject/1/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/mingw-w64/mingw64/bin/mingw32-make.exe -f &quot;D:/CProject/1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw-w64/mingw64/bin/mingw32-make.exe -f &quot;D:/CProject/1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw-w64/mingw64/bin/mingw32-make.exe -f &quot;D:/CProject/1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1">
+				<Option output="D:/CProject/1/cmake-build-debug/1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/CProject/1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/mingw-w64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/mingw-w64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/mingw-w64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+					<Add directory="D:/mingw-w64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/mingw-w64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/mingw-w64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/mingw-w64/mingw64/bin/mingw32-make.exe -f &quot;D:/CProject/1/cmake-build-debug/Makefile&quot;  VERBOSE=1 1"/>
+					<CompileFile command="D:/mingw-w64/mingw64/bin/mingw32-make.exe -f &quot;D:/CProject/1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw-w64/mingw64/bin/mingw32-make.exe -f &quot;D:/CProject/1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw-w64/mingw64/bin/mingw32-make.exe -f &quot;D:/CProject/1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1/fast">
+				<Option output="D:/CProject/1/cmake-build-debug/1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/CProject/1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/mingw-w64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/mingw-w64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/mingw-w64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+					<Add directory="D:/mingw-w64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/mingw-w64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/mingw-w64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/mingw-w64/mingw64/bin/mingw32-make.exe -f &quot;D:/CProject/1/cmake-build-debug/Makefile&quot;  VERBOSE=1 1/fast"/>
+					<CompileFile command="D:/mingw-w64/mingw64/bin/mingw32-make.exe -f &quot;D:/CProject/1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw-w64/mingw64/bin/mingw32-make.exe -f &quot;D:/CProject/1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw-w64/mingw64/bin/mingw32-make.exe -f &quot;D:/CProject/1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/CProject/1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/mingw-w64/mingw64/bin/mingw32-make.exe -f &quot;D:/CProject/1/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/mingw-w64/mingw64/bin/mingw32-make.exe -f &quot;D:/CProject/1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw-w64/mingw64/bin/mingw32-make.exe -f &quot;D:/CProject/1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw-w64/mingw64/bin/mingw32-make.exe -f &quot;D:/CProject/1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/CProject/1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/mingw-w64/mingw64/bin/mingw32-make.exe -f &quot;D:/CProject/1/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/mingw-w64/mingw64/bin/mingw32-make.exe -f &quot;D:/CProject/1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw-w64/mingw64/bin/mingw32-make.exe -f &quot;D:/CProject/1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw-w64/mingw64/bin/mingw32-make.exe -f &quot;D:/CProject/1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/CProject/1/leetcode/easy/PalindromeNum.c">
+			<Option target="1"/>
+		</Unit>
+		<Unit filename="D:/CProject/1/leetcode/easy/PalindromeNum.h">
+			<Option target="1"/>
+		</Unit>
+		<Unit filename="D:/CProject/1/leetcode/easy/TwoSum.c">
+			<Option target="1"/>
+		</Unit>
+		<Unit filename="D:/CProject/1/leetcode/easy/TwoSum.h">
+			<Option target="1"/>
+		</Unit>
+		<Unit filename="D:/CProject/1/leetcode/easy/isPerfectSquare.c">
+			<Option target="1"/>
+		</Unit>
+		<Unit filename="D:/CProject/1/leetcode/easy/isPerfectSquare.h">
+			<Option target="1"/>
+		</Unit>
+		<Unit filename="D:/CProject/1/leetcode/easy/operation.c">
+			<Option target="1"/>
+		</Unit>
+		<Unit filename="D:/CProject/1/leetcode/easy/operation.h">
+			<Option target="1"/>
+		</Unit>
+		<Unit filename="D:/CProject/1/leetcode/easy/reverseInt.c">
+			<Option target="1"/>
+		</Unit>
+		<Unit filename="D:/CProject/1/leetcode/easy/reverseInt.h">
+			<Option target="1"/>
+		</Unit>
+		<Unit filename="D:/CProject/1/leetcode/medium/LongestPalindrome.c">
+			<Option target="1"/>
+		</Unit>
+		<Unit filename="D:/CProject/1/leetcode/medium/LongestPalindrome.h">
+			<Option target="1"/>
+		</Unit>
+		<Unit filename="D:/CProject/1/leetcode/medium/ZigZag.c">
+			<Option target="1"/>
+		</Unit>
+		<Unit filename="D:/CProject/1/leetcode/medium/ZigZag.h">
+			<Option target="1"/>
+		</Unit>
+		<Unit filename="D:/CProject/1/leetcode/medium/linkedList/removeNthFromEnd.c">
+			<Option target="1"/>
+		</Unit>
+		<Unit filename="D:/CProject/1/leetcode/medium/linkedList/removeNthFromEnd.h">
+			<Option target="1"/>
+		</Unit>
+		<Unit filename="D:/CProject/1/leetcode/medium/linkedList/sortList.c">
+			<Option target="1"/>
+		</Unit>
+		<Unit filename="D:/CProject/1/leetcode/medium/linkedList/sortList.h">
+			<Option target="1"/>
+		</Unit>
+		<Unit filename="D:/CProject/1/leetcode/medium/nthUglyNumber.cpp">
+			<Option target="1"/>
+		</Unit>
+		<Unit filename="D:/CProject/1/leetcode/medium/nthUglyNumber.h">
+			<Option target="1"/>
+		</Unit>
+		<Unit filename="D:/CProject/1/leetcode/medium/uniquePaths.c">
+			<Option target="1"/>
+		</Unit>
+		<Unit filename="D:/CProject/1/leetcode/medium/uniquePaths.h">
+			<Option target="1"/>
+		</Unit>
+		<Unit filename="D:/CProject/1/leetcode/medium/uniquePathsWithObstacles.c">
+			<Option target="1"/>
+		</Unit>
+		<Unit filename="D:/CProject/1/leetcode/medium/uniquePathsWithObstacles.h">
+			<Option target="1"/>
+		</Unit>
+		<Unit filename="D:/CProject/1/leetcode/medium/validSudoku.c">
+			<Option target="1"/>
+		</Unit>
+		<Unit filename="D:/CProject/1/leetcode/medium/validSudoku.h">
+			<Option target="1"/>
+		</Unit>
+		<Unit filename="D:/CProject/1/leetcode/tool/bitmap.c">
+			<Option target="1"/>
+		</Unit>
+		<Unit filename="D:/CProject/1/leetcode/tool/bitmap.h">
+			<Option target="1"/>
+		</Unit>
+		<Unit filename="D:/CProject/1/leetcode/tool/mergeSort.c">
+			<Option target="1"/>
+		</Unit>
+		<Unit filename="D:/CProject/1/leetcode/tool/mergeSort.h">
+			<Option target="1"/>
+		</Unit>
+		<Unit filename="D:/CProject/1/longestComPre.c">
+			<Option target="1"/>
+		</Unit>
+		<Unit filename="D:/CProject/1/longestComPre.h">
+			<Option target="1"/>
+		</Unit>
+		<Unit filename="D:/CProject/1/main.c">
+			<Option target="1"/>
+		</Unit>
+		<Unit filename="D:/CProject/1/sort/sorts.c">
+			<Option target="1"/>
+		</Unit>
+		<Unit filename="D:/CProject/1/sort/sorts.h">
+			<Option target="1"/>
+		</Unit>
+		<Unit filename="D:/CProject/1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

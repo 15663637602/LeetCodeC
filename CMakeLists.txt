@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.6)
+project(1)
+
+set(CMAKE_C_STANDARD 99)
+
+set(SOURCE_FILES main.c sort/sorts.c sort/sorts.h leetcode/easy/reverseInt.c leetcode/easy/reverseInt.h leetcode/easy/PalindromeNum.c leetcode/easy/PalindromeNum.c leetcode/easy/PalindromeNum.h leetcode/easy/TwoSum.c leetcode/easy/TwoSum.h leetcode/medium/LongestPalindrome.c leetcode/medium/LongestPalindrome.h leetcode/easy/operation.c leetcode/easy/operation.h leetcode/tool/bitmap.c leetcode/tool/bitmap.h longestComPre.c longestComPre.h leetcode/medium/validSudoku.c leetcode/medium/validSudoku.h leetcode/medium/uniquePaths.c leetcode/medium/uniquePaths.h leetcode/medium/uniquePathsWithObstacles.c leetcode/medium/uniquePathsWithObstacles.h leetcode/medium/ZigZag.c leetcode/medium/ZigZag.h leetcode/medium/linkedList/removeNthFromEnd.c leetcode/medium/linkedList/removeNthFromEnd.h leetcode/easy/isPerfectSquare.c leetcode/easy/isPerfectSquare.h leetcode/medium/linkedList/sortList.c leetcode/medium/linkedList/sortList.h leetcode/tool/mergeSort.c leetcode/tool/mergeSort.h leetcode/medium/nthUglyNumber.c leetcode/medium/nthUglyNumber.h)
+add_executable(1 ${SOURCE_FILES})
