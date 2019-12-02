@@ -230,6 +230,33 @@ leetcode/easy/operation.c.s:
 	$(MAKE) -f CMakeFiles\1.dir\build.make CMakeFiles/1.dir/leetcode/easy/operation.c.s
 .PHONY : leetcode/easy/operation.c.s
 
+leetcode/easy/pascalTriangle.obj: leetcode/easy/pascalTriangle.c.obj
+
+.PHONY : leetcode/easy/pascalTriangle.obj
+
+# target to build an object file
+leetcode/easy/pascalTriangle.c.obj:
+	$(MAKE) -f CMakeFiles\1.dir\build.make CMakeFiles/1.dir/leetcode/easy/pascalTriangle.c.obj
+.PHONY : leetcode/easy/pascalTriangle.c.obj
+
+leetcode/easy/pascalTriangle.i: leetcode/easy/pascalTriangle.c.i
+
+.PHONY : leetcode/easy/pascalTriangle.i
+
+# target to preprocess a source file
+leetcode/easy/pascalTriangle.c.i:
+	$(MAKE) -f CMakeFiles\1.dir\build.make CMakeFiles/1.dir/leetcode/easy/pascalTriangle.c.i
+.PHONY : leetcode/easy/pascalTriangle.c.i
+
+leetcode/easy/pascalTriangle.s: leetcode/easy/pascalTriangle.c.s
+
+.PHONY : leetcode/easy/pascalTriangle.s
+
+# target to generate assembly for a file
+leetcode/easy/pascalTriangle.c.s:
+	$(MAKE) -f CMakeFiles\1.dir\build.make CMakeFiles/1.dir/leetcode/easy/pascalTriangle.c.s
+.PHONY : leetcode/easy/pascalTriangle.c.s
+
 leetcode/easy/reverseInt.obj: leetcode/easy/reverseInt.c.obj
 
 .PHONY : leetcode/easy/reverseInt.obj
@@ -256,6 +283,33 @@ leetcode/easy/reverseInt.s: leetcode/easy/reverseInt.c.s
 leetcode/easy/reverseInt.c.s:
 	$(MAKE) -f CMakeFiles\1.dir\build.make CMakeFiles/1.dir/leetcode/easy/reverseInt.c.s
 .PHONY : leetcode/easy/reverseInt.c.s
+
+leetcode/easy/uglyNumI.obj: leetcode/easy/uglyNumI.c.obj
+
+.PHONY : leetcode/easy/uglyNumI.obj
+
+# target to build an object file
+leetcode/easy/uglyNumI.c.obj:
+	$(MAKE) -f CMakeFiles\1.dir\build.make CMakeFiles/1.dir/leetcode/easy/uglyNumI.c.obj
+.PHONY : leetcode/easy/uglyNumI.c.obj
+
+leetcode/easy/uglyNumI.i: leetcode/easy/uglyNumI.c.i
+
+.PHONY : leetcode/easy/uglyNumI.i
+
+# target to preprocess a source file
+leetcode/easy/uglyNumI.c.i:
+	$(MAKE) -f CMakeFiles\1.dir\build.make CMakeFiles/1.dir/leetcode/easy/uglyNumI.c.i
+.PHONY : leetcode/easy/uglyNumI.c.i
+
+leetcode/easy/uglyNumI.s: leetcode/easy/uglyNumI.c.s
+
+.PHONY : leetcode/easy/uglyNumI.s
+
+# target to generate assembly for a file
+leetcode/easy/uglyNumI.c.s:
+	$(MAKE) -f CMakeFiles\1.dir\build.make CMakeFiles/1.dir/leetcode/easy/uglyNumI.c.s
+.PHONY : leetcode/easy/uglyNumI.c.s
 
 leetcode/medium/LongestPalindrome.obj: leetcode/medium/LongestPalindrome.c.obj
 
@@ -365,32 +419,32 @@ leetcode/medium/linkedList/sortList.c.s:
 	$(MAKE) -f CMakeFiles\1.dir\build.make CMakeFiles/1.dir/leetcode/medium/linkedList/sortList.c.s
 .PHONY : leetcode/medium/linkedList/sortList.c.s
 
-leetcode/medium/nthUglyNumber.obj: leetcode/medium/nthUglyNumber.cpp.obj
+leetcode/medium/nthUglyNumber.obj: leetcode/medium/nthUglyNumber.c.obj
 
 .PHONY : leetcode/medium/nthUglyNumber.obj
 
 # target to build an object file
-leetcode/medium/nthUglyNumber.cpp.obj:
-	$(MAKE) -f CMakeFiles\1.dir\build.make CMakeFiles/1.dir/leetcode/medium/nthUglyNumber.cpp.obj
-.PHONY : leetcode/medium/nthUglyNumber.cpp.obj
+leetcode/medium/nthUglyNumber.c.obj:
+	$(MAKE) -f CMakeFiles\1.dir\build.make CMakeFiles/1.dir/leetcode/medium/nthUglyNumber.c.obj
+.PHONY : leetcode/medium/nthUglyNumber.c.obj
 
-leetcode/medium/nthUglyNumber.i: leetcode/medium/nthUglyNumber.cpp.i
+leetcode/medium/nthUglyNumber.i: leetcode/medium/nthUglyNumber.c.i
 
 .PHONY : leetcode/medium/nthUglyNumber.i
 
 # target to preprocess a source file
-leetcode/medium/nthUglyNumber.cpp.i:
-	$(MAKE) -f CMakeFiles\1.dir\build.make CMakeFiles/1.dir/leetcode/medium/nthUglyNumber.cpp.i
-.PHONY : leetcode/medium/nthUglyNumber.cpp.i
+leetcode/medium/nthUglyNumber.c.i:
+	$(MAKE) -f CMakeFiles\1.dir\build.make CMakeFiles/1.dir/leetcode/medium/nthUglyNumber.c.i
+.PHONY : leetcode/medium/nthUglyNumber.c.i
 
-leetcode/medium/nthUglyNumber.s: leetcode/medium/nthUglyNumber.cpp.s
+leetcode/medium/nthUglyNumber.s: leetcode/medium/nthUglyNumber.c.s
 
 .PHONY : leetcode/medium/nthUglyNumber.s
 
 # target to generate assembly for a file
-leetcode/medium/nthUglyNumber.cpp.s:
-	$(MAKE) -f CMakeFiles\1.dir\build.make CMakeFiles/1.dir/leetcode/medium/nthUglyNumber.cpp.s
-.PHONY : leetcode/medium/nthUglyNumber.cpp.s
+leetcode/medium/nthUglyNumber.c.s:
+	$(MAKE) -f CMakeFiles\1.dir\build.make CMakeFiles/1.dir/leetcode/medium/nthUglyNumber.c.s
+.PHONY : leetcode/medium/nthUglyNumber.c.s
 
 leetcode/medium/uniquePaths.obj: leetcode/medium/uniquePaths.c.obj
 
@@ -499,6 +553,33 @@ leetcode/tool/bitmap.s: leetcode/tool/bitmap.c.s
 leetcode/tool/bitmap.c.s:
 	$(MAKE) -f CMakeFiles\1.dir\build.make CMakeFiles/1.dir/leetcode/tool/bitmap.c.s
 .PHONY : leetcode/tool/bitmap.c.s
+
+leetcode/tool/gcd_lcm.obj: leetcode/tool/gcd_lcm.c.obj
+
+.PHONY : leetcode/tool/gcd_lcm.obj
+
+# target to build an object file
+leetcode/tool/gcd_lcm.c.obj:
+	$(MAKE) -f CMakeFiles\1.dir\build.make CMakeFiles/1.dir/leetcode/tool/gcd_lcm.c.obj
+.PHONY : leetcode/tool/gcd_lcm.c.obj
+
+leetcode/tool/gcd_lcm.i: leetcode/tool/gcd_lcm.c.i
+
+.PHONY : leetcode/tool/gcd_lcm.i
+
+# target to preprocess a source file
+leetcode/tool/gcd_lcm.c.i:
+	$(MAKE) -f CMakeFiles\1.dir\build.make CMakeFiles/1.dir/leetcode/tool/gcd_lcm.c.i
+.PHONY : leetcode/tool/gcd_lcm.c.i
+
+leetcode/tool/gcd_lcm.s: leetcode/tool/gcd_lcm.c.s
+
+.PHONY : leetcode/tool/gcd_lcm.s
+
+# target to generate assembly for a file
+leetcode/tool/gcd_lcm.c.s:
+	$(MAKE) -f CMakeFiles\1.dir\build.make CMakeFiles/1.dir/leetcode/tool/gcd_lcm.c.s
+.PHONY : leetcode/tool/gcd_lcm.c.s
 
 leetcode/tool/mergeSort.obj: leetcode/tool/mergeSort.c.obj
 
@@ -629,9 +710,15 @@ help:
 	@echo ... leetcode/easy/operation.obj
 	@echo ... leetcode/easy/operation.i
 	@echo ... leetcode/easy/operation.s
+	@echo ... leetcode/easy/pascalTriangle.obj
+	@echo ... leetcode/easy/pascalTriangle.i
+	@echo ... leetcode/easy/pascalTriangle.s
 	@echo ... leetcode/easy/reverseInt.obj
 	@echo ... leetcode/easy/reverseInt.i
 	@echo ... leetcode/easy/reverseInt.s
+	@echo ... leetcode/easy/uglyNumI.obj
+	@echo ... leetcode/easy/uglyNumI.i
+	@echo ... leetcode/easy/uglyNumI.s
 	@echo ... leetcode/medium/LongestPalindrome.obj
 	@echo ... leetcode/medium/LongestPalindrome.i
 	@echo ... leetcode/medium/LongestPalindrome.s
@@ -659,6 +746,9 @@ help:
 	@echo ... leetcode/tool/bitmap.obj
 	@echo ... leetcode/tool/bitmap.i
 	@echo ... leetcode/tool/bitmap.s
+	@echo ... leetcode/tool/gcd_lcm.obj
+	@echo ... leetcode/tool/gcd_lcm.i
+	@echo ... leetcode/tool/gcd_lcm.s
 	@echo ... leetcode/tool/mergeSort.obj
 	@echo ... leetcode/tool/mergeSort.i
 	@echo ... leetcode/tool/mergeSort.s

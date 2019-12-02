@@ -3,6 +3,10 @@
 #include "lib/uthash.h"
 #include "leetcode/medium/linkedList/sortList.h"
 #include "leetcode/tool/mergeSort.h"
+#include "leetcode/medium/nthUglyNumber.h"
+#include "leetcode/easy/pascalTriangle.h"
+#include "leetcode/easy/uglyNumI.h"
+#include "leetcode/tool/gcd_lcm.h"
 
 struct number_hash {
     int value;
@@ -107,17 +111,23 @@ int myAtoi(char * str) {
 int main() {
 
 //    struct ListNode l5 = {0, NULL}, *pl5 = &l5;
-    struct ListNode l4 = {3, NULL}, *pl4 = &l4;
-    struct ListNode l3 = {1, pl4}, *pl3 = &l3;
-    struct ListNode l2 = {2, pl3}, *pl2 = &l2;
-    struct ListNode l1 = {4, pl2}, *pl1 = &l1;
+//    struct ListNode l4 = {3, NULL}, *pl4 = &l4;
+//    struct ListNode l3 = {1, pl4}, *pl3 = &l3;
+//    struct ListNode l2 = {2, pl3}, *pl2 = &l2;
+//    struct ListNode l1 = {4, pl2}, *pl1 = &l1;
+//
+//    struct ListNode* p = sortList(pl1);
+//    while (p != NULL) {
+//        int t = p->val;
+//        printf("%d -> ", t);
+//        p = p->next;
+//    }
 
-    struct ListNode* p = sortList(pl1);
-    while (p != NULL) {
-        int t = p->val;
-        printf("%d -> ", t);
-        p = p->next;
-    }
+//    int n = 1000000000, a = 2, b = 217983653, c = 336916467;
+//
+//    printf("%d\n", nthUglyNumber(n,a,b,c));
+
+    printf("%d", lcm(16, 12));
 
     return 0;
 }

@@ -104,10 +104,22 @@
 		<Unit filename="D:/CProject/1/leetcode/easy/operation.h">
 			<Option target="1"/>
 		</Unit>
+		<Unit filename="D:/CProject/1/leetcode/easy/pascalTriangle.c">
+			<Option target="1"/>
+		</Unit>
+		<Unit filename="D:/CProject/1/leetcode/easy/pascalTriangle.h">
+			<Option target="1"/>
+		</Unit>
 		<Unit filename="D:/CProject/1/leetcode/easy/reverseInt.c">
 			<Option target="1"/>
 		</Unit>
 		<Unit filename="D:/CProject/1/leetcode/easy/reverseInt.h">
+			<Option target="1"/>
+		</Unit>
+		<Unit filename="D:/CProject/1/leetcode/easy/uglyNumI.c">
+			<Option target="1"/>
+		</Unit>
+		<Unit filename="D:/CProject/1/leetcode/easy/uglyNumI.h">
 			<Option target="1"/>
 		</Unit>
 		<Unit filename="D:/CProject/1/leetcode/medium/LongestPalindrome.c">
@@ -134,7 +146,7 @@
 		<Unit filename="D:/CProject/1/leetcode/medium/linkedList/sortList.h">
 			<Option target="1"/>
 		</Unit>
-		<Unit filename="D:/CProject/1/leetcode/medium/nthUglyNumber.cpp">
+		<Unit filename="D:/CProject/1/leetcode/medium/nthUglyNumber.c">
 			<Option target="1"/>
 		</Unit>
 		<Unit filename="D:/CProject/1/leetcode/medium/nthUglyNumber.h">
@@ -162,6 +174,12 @@
 			<Option target="1"/>
 		</Unit>
 		<Unit filename="D:/CProject/1/leetcode/tool/bitmap.h">
+			<Option target="1"/>
+		</Unit>
+		<Unit filename="D:/CProject/1/leetcode/tool/gcd_lcm.c">
+			<Option target="1"/>
+		</Unit>
+		<Unit filename="D:/CProject/1/leetcode/tool/gcd_lcm.h">
 			<Option target="1"/>
 		</Unit>
 		<Unit filename="D:/CProject/1/leetcode/tool/mergeSort.c">

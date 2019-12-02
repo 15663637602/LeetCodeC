@@ -13,8 +13,14 @@ CMakeFiles/1.dir/leetcode/easy/isPerfectSquare.c.obj: ../leetcode/easy/isPerfect
 CMakeFiles/1.dir/leetcode/easy/operation.c.obj: ../leetcode/easy/operation.c
 CMakeFiles/1.dir/leetcode/easy/operation.c.obj: ../leetcode/easy/operation.h
 
+CMakeFiles/1.dir/leetcode/easy/pascalTriangle.c.obj: ../leetcode/easy/pascalTriangle.c
+CMakeFiles/1.dir/leetcode/easy/pascalTriangle.c.obj: ../leetcode/easy/pascalTriangle.h
+
 CMakeFiles/1.dir/leetcode/easy/reverseInt.c.obj: ../leetcode/easy/reverseInt.c
 CMakeFiles/1.dir/leetcode/easy/reverseInt.c.obj: ../leetcode/easy/reverseInt.h
+
+CMakeFiles/1.dir/leetcode/easy/uglyNumI.c.obj: ../leetcode/easy/uglyNumI.c
+CMakeFiles/1.dir/leetcode/easy/uglyNumI.c.obj: ../leetcode/easy/uglyNumI.h
 
 CMakeFiles/1.dir/leetcode/medium/LongestPalindrome.c.obj: ../leetcode/medium/LongestPalindrome.c
 CMakeFiles/1.dir/leetcode/medium/LongestPalindrome.c.obj: ../leetcode/medium/LongestPalindrome.h
@@ -28,6 +34,9 @@ CMakeFiles/1.dir/leetcode/medium/linkedList/removeNthFromEnd.c.obj: ../leetcode/
 CMakeFiles/1.dir/leetcode/medium/linkedList/sortList.c.obj: ../leetcode/medium/linkedList/sortList.c
 CMakeFiles/1.dir/leetcode/medium/linkedList/sortList.c.obj: ../leetcode/medium/linkedList/sortList.h
 
+CMakeFiles/1.dir/leetcode/medium/nthUglyNumber.c.obj: ../leetcode/medium/nthUglyNumber.c
+CMakeFiles/1.dir/leetcode/medium/nthUglyNumber.c.obj: ../leetcode/medium/nthUglyNumber.h
+
 CMakeFiles/1.dir/leetcode/medium/uniquePaths.c.obj: ../leetcode/medium/uniquePaths.c
 CMakeFiles/1.dir/leetcode/medium/uniquePaths.c.obj: ../leetcode/medium/uniquePaths.h
 
@@ -40,13 +49,20 @@ CMakeFiles/1.dir/leetcode/medium/validSudoku.c.obj: ../leetcode/medium/validSudo
 CMakeFiles/1.dir/leetcode/tool/bitmap.c.obj: ../leetcode/tool/bitmap.c
 CMakeFiles/1.dir/leetcode/tool/bitmap.c.obj: ../leetcode/tool/bitmap.h
 
+CMakeFiles/1.dir/leetcode/tool/gcd_lcm.c.obj: ../leetcode/tool/gcd_lcm.c
+CMakeFiles/1.dir/leetcode/tool/gcd_lcm.c.obj: ../leetcode/tool/gcd_lcm.h
+
 CMakeFiles/1.dir/leetcode/tool/mergeSort.c.obj: ../leetcode/tool/mergeSort.c
 CMakeFiles/1.dir/leetcode/tool/mergeSort.c.obj: ../leetcode/tool/mergeSort.h
 
 CMakeFiles/1.dir/longestComPre.c.obj: ../longestComPre.c
 CMakeFiles/1.dir/longestComPre.c.obj: ../longestComPre.h
 
+CMakeFiles/1.dir/main.c.obj: ../leetcode/easy/pascalTriangle.h
+CMakeFiles/1.dir/main.c.obj: ../leetcode/easy/uglyNumI.h
 CMakeFiles/1.dir/main.c.obj: ../leetcode/medium/linkedList/sortList.h
+CMakeFiles/1.dir/main.c.obj: ../leetcode/medium/nthUglyNumber.h
+CMakeFiles/1.dir/main.c.obj: ../leetcode/tool/gcd_lcm.h
 CMakeFiles/1.dir/main.c.obj: ../leetcode/tool/mergeSort.h
 CMakeFiles/1.dir/main.c.obj: ../lib/uthash.h
 CMakeFiles/1.dir/main.c.obj: ../main.c

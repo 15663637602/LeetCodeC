@@ -42,6 +42,14 @@ D:/CProject/1/leetcode/easy/operation.h
 
 D:/CProject/1/leetcode/easy/operation.h
 
+D:/CProject/1/leetcode/easy/pascalTriangle.c
+stdlib.h
+-
+pascalTriangle.h
+D:/CProject/1/leetcode/easy/pascalTriangle.h
+
+D:/CProject/1/leetcode/easy/pascalTriangle.h
+
 D:/CProject/1/leetcode/easy/reverseInt.c
 limits.h
 -
@@ -49,6 +57,14 @@ reverseInt.h
 D:/CProject/1/leetcode/easy/reverseInt.h
 
 D:/CProject/1/leetcode/easy/reverseInt.h
+
+D:/CProject/1/leetcode/easy/uglyNumI.c
+uglyNumI.h
+D:/CProject/1/leetcode/easy/uglyNumI.h
+
+D:/CProject/1/leetcode/easy/uglyNumI.h
+stdbool.h
+-
 
 D:/CProject/1/leetcode/medium/LongestPalindrome.c
 stdlib.h
@@ -90,6 +106,14 @@ D:/CProject/1/leetcode/medium/linkedList/sortList.h
 
 D:/CProject/1/leetcode/medium/linkedList/sortList.h
 
+D:/CProject/1/leetcode/medium/nthUglyNumber.c
+stdio.h
+-
+nthUglyNumber.h
+D:/CProject/1/leetcode/medium/nthUglyNumber.h
+
+D:/CProject/1/leetcode/medium/nthUglyNumber.h
+
 D:/CProject/1/leetcode/medium/uniquePaths.c
 uniquePaths.h
 D:/CProject/1/leetcode/medium/uniquePaths.h
@@ -125,6 +149,12 @@ bitmap.h
 D:/CProject/1/leetcode/tool/bitmap.h
 
 D:/CProject/1/leetcode/tool/bitmap.h
+
+D:/CProject/1/leetcode/tool/gcd_lcm.c
+gcd_lcm.h
+D:/CProject/1/leetcode/tool/gcd_lcm.h
+
+D:/CProject/1/leetcode/tool/gcd_lcm.h
 
 D:/CProject/1/leetcode/tool/mergeSort.c
 mergeSort.h
@@ -167,6 +197,14 @@ leetcode/medium/linkedList/sortList.h
 D:/CProject/1/leetcode/medium/linkedList/sortList.h
 leetcode/tool/mergeSort.h
 D:/CProject/1/leetcode/tool/mergeSort.h
+leetcode/medium/nthUglyNumber.h
+D:/CProject/1/leetcode/medium/nthUglyNumber.h
+leetcode/easy/pascalTriangle.h
+D:/CProject/1/leetcode/easy/pascalTriangle.h
+leetcode/easy/uglyNumI.h
+D:/CProject/1/leetcode/easy/uglyNumI.h
+leetcode/tool/gcd_lcm.h
+D:/CProject/1/leetcode/tool/gcd_lcm.h
 
 D:/CProject/1/sort/sorts.c
 sorts.h

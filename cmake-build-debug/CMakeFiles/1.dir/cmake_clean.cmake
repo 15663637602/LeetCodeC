@@ -16,7 +16,10 @@ file(REMOVE_RECURSE
   "CMakeFiles/1.dir/leetcode/easy/isPerfectSquare.c.obj"
   "CMakeFiles/1.dir/leetcode/medium/linkedList/sortList.c.obj"
   "CMakeFiles/1.dir/leetcode/tool/mergeSort.c.obj"
-  "CMakeFiles/1.dir/leetcode/medium/nthUglyNumber.cpp.obj"
+  "CMakeFiles/1.dir/leetcode/medium/nthUglyNumber.c.obj"
+  "CMakeFiles/1.dir/leetcode/easy/pascalTriangle.c.obj"
+  "CMakeFiles/1.dir/leetcode/easy/uglyNumI.c.obj"
+  "CMakeFiles/1.dir/leetcode/tool/gcd_lcm.c.obj"
   "1.pdb"
   "1.exe"
   "1.exe.manifest"
@@ -24,6 +27,6 @@ file(REMOVE_RECURSE
 )
 
 # Per-language clean rules from dependency scanning.
-foreach(lang C CXX)
+foreach(lang C)
   include(CMakeFiles/1.dir/cmake_clean_${lang}.cmake OPTIONAL)
 endforeach()

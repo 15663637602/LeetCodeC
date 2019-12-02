@@ -464,28 +464,100 @@ CMakeFiles/1.dir/leetcode/tool/mergeSort.c.obj.provides: CMakeFiles/1.dir/leetco
 CMakeFiles/1.dir/leetcode/tool/mergeSort.c.obj.provides.build: CMakeFiles/1.dir/leetcode/tool/mergeSort.c.obj
 
 
-CMakeFiles/1.dir/leetcode/medium/nthUglyNumber.cpp.obj: CMakeFiles/1.dir/flags.make
-CMakeFiles/1.dir/leetcode/medium/nthUglyNumber.cpp.obj: ../leetcode/medium/nthUglyNumber.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\CProject\1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/1.dir/leetcode/medium/nthUglyNumber.cpp.obj"
-	D:\mingw-w64\mingw64\bin\g++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\1.dir\leetcode\medium\nthUglyNumber.cpp.obj -c D:\CProject\1\leetcode\medium\nthUglyNumber.cpp
+CMakeFiles/1.dir/leetcode/medium/nthUglyNumber.c.obj: CMakeFiles/1.dir/flags.make
+CMakeFiles/1.dir/leetcode/medium/nthUglyNumber.c.obj: ../leetcode/medium/nthUglyNumber.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\CProject\1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building C object CMakeFiles/1.dir/leetcode/medium/nthUglyNumber.c.obj"
+	D:\mingw-w64\mingw64\bin\gcc.exe  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\1.dir\leetcode\medium\nthUglyNumber.c.obj   -c D:\CProject\1\leetcode\medium\nthUglyNumber.c
 
-CMakeFiles/1.dir/leetcode/medium/nthUglyNumber.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/1.dir/leetcode/medium/nthUglyNumber.cpp.i"
-	D:\mingw-w64\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\CProject\1\leetcode\medium\nthUglyNumber.cpp > CMakeFiles\1.dir\leetcode\medium\nthUglyNumber.cpp.i
+CMakeFiles/1.dir/leetcode/medium/nthUglyNumber.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/1.dir/leetcode/medium/nthUglyNumber.c.i"
+	D:\mingw-w64\mingw64\bin\gcc.exe  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\CProject\1\leetcode\medium\nthUglyNumber.c > CMakeFiles\1.dir\leetcode\medium\nthUglyNumber.c.i
 
-CMakeFiles/1.dir/leetcode/medium/nthUglyNumber.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/1.dir/leetcode/medium/nthUglyNumber.cpp.s"
-	D:\mingw-w64\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\CProject\1\leetcode\medium\nthUglyNumber.cpp -o CMakeFiles\1.dir\leetcode\medium\nthUglyNumber.cpp.s
+CMakeFiles/1.dir/leetcode/medium/nthUglyNumber.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/1.dir/leetcode/medium/nthUglyNumber.c.s"
+	D:\mingw-w64\mingw64\bin\gcc.exe  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\CProject\1\leetcode\medium\nthUglyNumber.c -o CMakeFiles\1.dir\leetcode\medium\nthUglyNumber.c.s
 
-CMakeFiles/1.dir/leetcode/medium/nthUglyNumber.cpp.obj.requires:
+CMakeFiles/1.dir/leetcode/medium/nthUglyNumber.c.obj.requires:
 
-.PHONY : CMakeFiles/1.dir/leetcode/medium/nthUglyNumber.cpp.obj.requires
+.PHONY : CMakeFiles/1.dir/leetcode/medium/nthUglyNumber.c.obj.requires
 
-CMakeFiles/1.dir/leetcode/medium/nthUglyNumber.cpp.obj.provides: CMakeFiles/1.dir/leetcode/medium/nthUglyNumber.cpp.obj.requires
-	$(MAKE) -f CMakeFiles\1.dir\build.make CMakeFiles/1.dir/leetcode/medium/nthUglyNumber.cpp.obj.provides.build
-.PHONY : CMakeFiles/1.dir/leetcode/medium/nthUglyNumber.cpp.obj.provides
+CMakeFiles/1.dir/leetcode/medium/nthUglyNumber.c.obj.provides: CMakeFiles/1.dir/leetcode/medium/nthUglyNumber.c.obj.requires
+	$(MAKE) -f CMakeFiles\1.dir\build.make CMakeFiles/1.dir/leetcode/medium/nthUglyNumber.c.obj.provides.build
+.PHONY : CMakeFiles/1.dir/leetcode/medium/nthUglyNumber.c.obj.provides
 
-CMakeFiles/1.dir/leetcode/medium/nthUglyNumber.cpp.obj.provides.build: CMakeFiles/1.dir/leetcode/medium/nthUglyNumber.cpp.obj
+CMakeFiles/1.dir/leetcode/medium/nthUglyNumber.c.obj.provides.build: CMakeFiles/1.dir/leetcode/medium/nthUglyNumber.c.obj
+
+
+CMakeFiles/1.dir/leetcode/easy/pascalTriangle.c.obj: CMakeFiles/1.dir/flags.make
+CMakeFiles/1.dir/leetcode/easy/pascalTriangle.c.obj: ../leetcode/easy/pascalTriangle.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\CProject\1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building C object CMakeFiles/1.dir/leetcode/easy/pascalTriangle.c.obj"
+	D:\mingw-w64\mingw64\bin\gcc.exe  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\1.dir\leetcode\easy\pascalTriangle.c.obj   -c D:\CProject\1\leetcode\easy\pascalTriangle.c
+
+CMakeFiles/1.dir/leetcode/easy/pascalTriangle.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/1.dir/leetcode/easy/pascalTriangle.c.i"
+	D:\mingw-w64\mingw64\bin\gcc.exe  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\CProject\1\leetcode\easy\pascalTriangle.c > CMakeFiles\1.dir\leetcode\easy\pascalTriangle.c.i
+
+CMakeFiles/1.dir/leetcode/easy/pascalTriangle.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/1.dir/leetcode/easy/pascalTriangle.c.s"
+	D:\mingw-w64\mingw64\bin\gcc.exe  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\CProject\1\leetcode\easy\pascalTriangle.c -o CMakeFiles\1.dir\leetcode\easy\pascalTriangle.c.s
+
+CMakeFiles/1.dir/leetcode/easy/pascalTriangle.c.obj.requires:
+
+.PHONY : CMakeFiles/1.dir/leetcode/easy/pascalTriangle.c.obj.requires
+
+CMakeFiles/1.dir/leetcode/easy/pascalTriangle.c.obj.provides: CMakeFiles/1.dir/leetcode/easy/pascalTriangle.c.obj.requires
+	$(MAKE) -f CMakeFiles\1.dir\build.make CMakeFiles/1.dir/leetcode/easy/pascalTriangle.c.obj.provides.build
+.PHONY : CMakeFiles/1.dir/leetcode/easy/pascalTriangle.c.obj.provides
+
+CMakeFiles/1.dir/leetcode/easy/pascalTriangle.c.obj.provides.build: CMakeFiles/1.dir/leetcode/easy/pascalTriangle.c.obj
+
+
+CMakeFiles/1.dir/leetcode/easy/uglyNumI.c.obj: CMakeFiles/1.dir/flags.make
+CMakeFiles/1.dir/leetcode/easy/uglyNumI.c.obj: ../leetcode/easy/uglyNumI.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\CProject\1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building C object CMakeFiles/1.dir/leetcode/easy/uglyNumI.c.obj"
+	D:\mingw-w64\mingw64\bin\gcc.exe  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\1.dir\leetcode\easy\uglyNumI.c.obj   -c D:\CProject\1\leetcode\easy\uglyNumI.c
+
+CMakeFiles/1.dir/leetcode/easy/uglyNumI.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/1.dir/leetcode/easy/uglyNumI.c.i"
+	D:\mingw-w64\mingw64\bin\gcc.exe  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\CProject\1\leetcode\easy\uglyNumI.c > CMakeFiles\1.dir\leetcode\easy\uglyNumI.c.i
+
+CMakeFiles/1.dir/leetcode/easy/uglyNumI.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/1.dir/leetcode/easy/uglyNumI.c.s"
+	D:\mingw-w64\mingw64\bin\gcc.exe  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\CProject\1\leetcode\easy\uglyNumI.c -o CMakeFiles\1.dir\leetcode\easy\uglyNumI.c.s
+
+CMakeFiles/1.dir/leetcode/easy/uglyNumI.c.obj.requires:
+
+.PHONY : CMakeFiles/1.dir/leetcode/easy/uglyNumI.c.obj.requires
+
+CMakeFiles/1.dir/leetcode/easy/uglyNumI.c.obj.provides: CMakeFiles/1.dir/leetcode/easy/uglyNumI.c.obj.requires
+	$(MAKE) -f CMakeFiles\1.dir\build.make CMakeFiles/1.dir/leetcode/easy/uglyNumI.c.obj.provides.build
+.PHONY : CMakeFiles/1.dir/leetcode/easy/uglyNumI.c.obj.provides
+
+CMakeFiles/1.dir/leetcode/easy/uglyNumI.c.obj.provides.build: CMakeFiles/1.dir/leetcode/easy/uglyNumI.c.obj
+
+
+CMakeFiles/1.dir/leetcode/tool/gcd_lcm.c.obj: CMakeFiles/1.dir/flags.make
+CMakeFiles/1.dir/leetcode/tool/gcd_lcm.c.obj: ../leetcode/tool/gcd_lcm.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\CProject\1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building C object CMakeFiles/1.dir/leetcode/tool/gcd_lcm.c.obj"
+	D:\mingw-w64\mingw64\bin\gcc.exe  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\1.dir\leetcode\tool\gcd_lcm.c.obj   -c D:\CProject\1\leetcode\tool\gcd_lcm.c
+
+CMakeFiles/1.dir/leetcode/tool/gcd_lcm.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/1.dir/leetcode/tool/gcd_lcm.c.i"
+	D:\mingw-w64\mingw64\bin\gcc.exe  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\CProject\1\leetcode\tool\gcd_lcm.c > CMakeFiles\1.dir\leetcode\tool\gcd_lcm.c.i
+
+CMakeFiles/1.dir/leetcode/tool/gcd_lcm.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/1.dir/leetcode/tool/gcd_lcm.c.s"
+	D:\mingw-w64\mingw64\bin\gcc.exe  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\CProject\1\leetcode\tool\gcd_lcm.c -o CMakeFiles\1.dir\leetcode\tool\gcd_lcm.c.s
+
+CMakeFiles/1.dir/leetcode/tool/gcd_lcm.c.obj.requires:
+
+.PHONY : CMakeFiles/1.dir/leetcode/tool/gcd_lcm.c.obj.requires
+
+CMakeFiles/1.dir/leetcode/tool/gcd_lcm.c.obj.provides: CMakeFiles/1.dir/leetcode/tool/gcd_lcm.c.obj.requires
+	$(MAKE) -f CMakeFiles\1.dir\build.make CMakeFiles/1.dir/leetcode/tool/gcd_lcm.c.obj.provides.build
+.PHONY : CMakeFiles/1.dir/leetcode/tool/gcd_lcm.c.obj.provides
+
+CMakeFiles/1.dir/leetcode/tool/gcd_lcm.c.obj.provides.build: CMakeFiles/1.dir/leetcode/tool/gcd_lcm.c.obj
 
 
 # Object files for target 1
@@ -507,7 +579,10 @@ CMakeFiles/1.dir/leetcode/medium/nthUglyNumber.cpp.obj.provides.build: CMakeFile
 "CMakeFiles/1.dir/leetcode/easy/isPerfectSquare.c.obj" \
 "CMakeFiles/1.dir/leetcode/medium/linkedList/sortList.c.obj" \
 "CMakeFiles/1.dir/leetcode/tool/mergeSort.c.obj" \
-"CMakeFiles/1.dir/leetcode/medium/nthUglyNumber.cpp.obj"
+"CMakeFiles/1.dir/leetcode/medium/nthUglyNumber.c.obj" \
+"CMakeFiles/1.dir/leetcode/easy/pascalTriangle.c.obj" \
+"CMakeFiles/1.dir/leetcode/easy/uglyNumI.c.obj" \
+"CMakeFiles/1.dir/leetcode/tool/gcd_lcm.c.obj"
 
 # External object files for target 1
 1_EXTERNAL_OBJECTS =
@@ -529,12 +604,15 @@ CMakeFiles/1.dir/leetcode/medium/nthUglyNumber.cpp.obj.provides.build: CMakeFile
 1.exe: CMakeFiles/1.dir/leetcode/easy/isPerfectSquare.c.obj
 1.exe: CMakeFiles/1.dir/leetcode/medium/linkedList/sortList.c.obj
 1.exe: CMakeFiles/1.dir/leetcode/tool/mergeSort.c.obj
-1.exe: CMakeFiles/1.dir/leetcode/medium/nthUglyNumber.cpp.obj
+1.exe: CMakeFiles/1.dir/leetcode/medium/nthUglyNumber.c.obj
+1.exe: CMakeFiles/1.dir/leetcode/easy/pascalTriangle.c.obj
+1.exe: CMakeFiles/1.dir/leetcode/easy/uglyNumI.c.obj
+1.exe: CMakeFiles/1.dir/leetcode/tool/gcd_lcm.c.obj
 1.exe: CMakeFiles/1.dir/build.make
 1.exe: CMakeFiles/1.dir/linklibs.rsp
 1.exe: CMakeFiles/1.dir/objects1.rsp
 1.exe: CMakeFiles/1.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\CProject\1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Linking CXX executable 1.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\CProject\1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Linking C executable 1.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\1.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -559,7 +637,10 @@ CMakeFiles/1.dir/requires: CMakeFiles/1.dir/leetcode/medium/linkedList/removeNth
 CMakeFiles/1.dir/requires: CMakeFiles/1.dir/leetcode/easy/isPerfectSquare.c.obj.requires
 CMakeFiles/1.dir/requires: CMakeFiles/1.dir/leetcode/medium/linkedList/sortList.c.obj.requires
 CMakeFiles/1.dir/requires: CMakeFiles/1.dir/leetcode/tool/mergeSort.c.obj.requires
-CMakeFiles/1.dir/requires: CMakeFiles/1.dir/leetcode/medium/nthUglyNumber.cpp.obj.requires
+CMakeFiles/1.dir/requires: CMakeFiles/1.dir/leetcode/medium/nthUglyNumber.c.obj.requires
+CMakeFiles/1.dir/requires: CMakeFiles/1.dir/leetcode/easy/pascalTriangle.c.obj.requires
+CMakeFiles/1.dir/requires: CMakeFiles/1.dir/leetcode/easy/uglyNumI.c.obj.requires
+CMakeFiles/1.dir/requires: CMakeFiles/1.dir/leetcode/tool/gcd_lcm.c.obj.requires
 
 .PHONY : CMakeFiles/1.dir/requires
 
