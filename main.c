@@ -1,12 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "lib/uthash.h"
-#include "leetcode/medium/linkedList/sortList.h"
-#include "leetcode/tool/mergeSort.h"
-#include "leetcode/medium/nthUglyNumber.h"
-#include "leetcode/easy/pascalTriangle.h"
-#include "leetcode/easy/uglyNumI.h"
-#include "leetcode/tool/gcd_lcm.h"
 
 struct number_hash {
     int value;
@@ -55,6 +49,7 @@ int* twoSum2(int* nums, int numsSize, int target) {
 
     return ret;
 }
+
 
 int* twoSum(int* nums, int numsSize, int target, int* returnSize){
     *returnSize = 2;
@@ -106,6 +101,26 @@ int myAtoi(char * str) {
     return flag < 0 ? -res : res;
 }
 
+int f(const void* a, const void* b) {
+    return *(int*)a > *(int*)b ? 1 : 0;
+}
+
+int tribonacci(int n){
+    if (n < 2)
+        return n;
+    if (n == 2)
+        return 1;
+    int a = 0;
+    int b = 1;
+    int c = 1;
+    for (int i = 3; i <= n; ++i) {
+        int tmp = c;
+        c = a + b + c;
+        a = b;
+        b = tmp;
+    }
+    return c;
+}
 
 
 int main() {
@@ -125,9 +140,8 @@ int main() {
 
 //    int n = 1000000000, a = 2, b = 217983653, c = 336916467;
 //
-//    printf("%d\n", nthUglyNumber(n,a,b,c));
+    printf("%d\n", tribonacci(4));
 
-    printf("%d", lcm(16, 12));
 
     return 0;
 }

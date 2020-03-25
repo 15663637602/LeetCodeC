@@ -52,19 +52,19 @@ CMakeFiles/1.dir/leetcode/tool/bitmap.c.obj
 CMakeFiles/1.dir/leetcode/tool/gcd_lcm.c.obj
  D:/CProject/1/leetcode/tool/gcd_lcm.c
  D:/CProject/1/leetcode/tool/gcd_lcm.h
+CMakeFiles/1.dir/leetcode/tool/hashSet.c.obj
+ D:/CProject/1/leetcode/tool/hashSet.c
+ D:/CProject/1/leetcode/tool/hashSet.h
 CMakeFiles/1.dir/leetcode/tool/mergeSort.c.obj
  D:/CProject/1/leetcode/tool/mergeSort.c
  D:/CProject/1/leetcode/tool/mergeSort.h
+CMakeFiles/1.dir/leetcode/tool/myQueue.c.obj
+ D:/CProject/1/leetcode/tool/myQueue.c
+ D:/CProject/1/leetcode/tool/myQueue.h
 CMakeFiles/1.dir/longestComPre.c.obj
  D:/CProject/1/longestComPre.c
  D:/CProject/1/longestComPre.h
 CMakeFiles/1.dir/main.c.obj
- D:/CProject/1/leetcode/easy/pascalTriangle.h
- D:/CProject/1/leetcode/easy/uglyNumI.h
- D:/CProject/1/leetcode/medium/linkedList/sortList.h
- D:/CProject/1/leetcode/medium/nthUglyNumber.h
- D:/CProject/1/leetcode/tool/gcd_lcm.h
- D:/CProject/1/leetcode/tool/mergeSort.h
  D:/CProject/1/lib/uthash.h
  D:/CProject/1/main.c
 CMakeFiles/1.dir/sort/sorts.c.obj

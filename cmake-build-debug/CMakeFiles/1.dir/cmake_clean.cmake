@@ -20,6 +20,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/1.dir/leetcode/easy/pascalTriangle.c.obj"
   "CMakeFiles/1.dir/leetcode/easy/uglyNumI.c.obj"
   "CMakeFiles/1.dir/leetcode/tool/gcd_lcm.c.obj"
+  "CMakeFiles/1.dir/leetcode/tool/myQueue.c.obj"
+  "CMakeFiles/1.dir/leetcode/tool/hashSet.c.obj"
   "1.pdb"
   "1.exe"
   "1.exe.manifest"

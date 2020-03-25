@@ -156,11 +156,33 @@ D:/CProject/1/leetcode/tool/gcd_lcm.h
 
 D:/CProject/1/leetcode/tool/gcd_lcm.h
 
+D:/CProject/1/leetcode/tool/hashSet.c
+stdbool.h
+-
+stdlib.h
+-
+mem.h
+-
+hashSet.h
+D:/CProject/1/leetcode/tool/hashSet.h
+
+D:/CProject/1/leetcode/tool/hashSet.h
+
 D:/CProject/1/leetcode/tool/mergeSort.c
 mergeSort.h
 D:/CProject/1/leetcode/tool/mergeSort.h
 
 D:/CProject/1/leetcode/tool/mergeSort.h
+
+D:/CProject/1/leetcode/tool/myQueue.c
+myQueue.h
+D:/CProject/1/leetcode/tool/myQueue.h
+
+D:/CProject/1/leetcode/tool/myQueue.h
+stdlib.h
+-
+stdbool.h
+-
 
 D:/CProject/1/lib/uthash.h
 string.h
@@ -193,18 +215,6 @@ stdlib.h
 -
 lib/uthash.h
 D:/CProject/1/lib/uthash.h
-leetcode/medium/linkedList/sortList.h
-D:/CProject/1/leetcode/medium/linkedList/sortList.h
-leetcode/tool/mergeSort.h
-D:/CProject/1/leetcode/tool/mergeSort.h
-leetcode/medium/nthUglyNumber.h
-D:/CProject/1/leetcode/medium/nthUglyNumber.h
-leetcode/easy/pascalTriangle.h
-D:/CProject/1/leetcode/easy/pascalTriangle.h
-leetcode/easy/uglyNumI.h
-D:/CProject/1/leetcode/easy/uglyNumI.h
-leetcode/tool/gcd_lcm.h
-D:/CProject/1/leetcode/tool/gcd_lcm.h
 
 D:/CProject/1/sort/sorts.c
 sorts.h

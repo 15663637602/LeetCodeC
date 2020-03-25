@@ -182,10 +182,22 @@
 		<Unit filename="D:/CProject/1/leetcode/tool/gcd_lcm.h">
 			<Option target="1"/>
 		</Unit>
+		<Unit filename="D:/CProject/1/leetcode/tool/hashSet.c">
+			<Option target="1"/>
+		</Unit>
+		<Unit filename="D:/CProject/1/leetcode/tool/hashSet.h">
+			<Option target="1"/>
+		</Unit>
 		<Unit filename="D:/CProject/1/leetcode/tool/mergeSort.c">
 			<Option target="1"/>
 		</Unit>
 		<Unit filename="D:/CProject/1/leetcode/tool/mergeSort.h">
+			<Option target="1"/>
+		</Unit>
+		<Unit filename="D:/CProject/1/leetcode/tool/myQueue.c">
+			<Option target="1"/>
+		</Unit>
+		<Unit filename="D:/CProject/1/leetcode/tool/myQueue.h">
 			<Option target="1"/>
 		</Unit>
 		<Unit filename="D:/CProject/1/longestComPre.c">

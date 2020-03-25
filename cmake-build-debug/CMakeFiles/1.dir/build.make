@@ -560,6 +560,54 @@ CMakeFiles/1.dir/leetcode/tool/gcd_lcm.c.obj.provides: CMakeFiles/1.dir/leetcode
 CMakeFiles/1.dir/leetcode/tool/gcd_lcm.c.obj.provides.build: CMakeFiles/1.dir/leetcode/tool/gcd_lcm.c.obj
 
 
+CMakeFiles/1.dir/leetcode/tool/myQueue.c.obj: CMakeFiles/1.dir/flags.make
+CMakeFiles/1.dir/leetcode/tool/myQueue.c.obj: ../leetcode/tool/myQueue.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\CProject\1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building C object CMakeFiles/1.dir/leetcode/tool/myQueue.c.obj"
+	D:\mingw-w64\mingw64\bin\gcc.exe  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\1.dir\leetcode\tool\myQueue.c.obj   -c D:\CProject\1\leetcode\tool\myQueue.c
+
+CMakeFiles/1.dir/leetcode/tool/myQueue.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/1.dir/leetcode/tool/myQueue.c.i"
+	D:\mingw-w64\mingw64\bin\gcc.exe  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\CProject\1\leetcode\tool\myQueue.c > CMakeFiles\1.dir\leetcode\tool\myQueue.c.i
+
+CMakeFiles/1.dir/leetcode/tool/myQueue.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/1.dir/leetcode/tool/myQueue.c.s"
+	D:\mingw-w64\mingw64\bin\gcc.exe  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\CProject\1\leetcode\tool\myQueue.c -o CMakeFiles\1.dir\leetcode\tool\myQueue.c.s
+
+CMakeFiles/1.dir/leetcode/tool/myQueue.c.obj.requires:
+
+.PHONY : CMakeFiles/1.dir/leetcode/tool/myQueue.c.obj.requires
+
+CMakeFiles/1.dir/leetcode/tool/myQueue.c.obj.provides: CMakeFiles/1.dir/leetcode/tool/myQueue.c.obj.requires
+	$(MAKE) -f CMakeFiles\1.dir\build.make CMakeFiles/1.dir/leetcode/tool/myQueue.c.obj.provides.build
+.PHONY : CMakeFiles/1.dir/leetcode/tool/myQueue.c.obj.provides
+
+CMakeFiles/1.dir/leetcode/tool/myQueue.c.obj.provides.build: CMakeFiles/1.dir/leetcode/tool/myQueue.c.obj
+
+
+CMakeFiles/1.dir/leetcode/tool/hashSet.c.obj: CMakeFiles/1.dir/flags.make
+CMakeFiles/1.dir/leetcode/tool/hashSet.c.obj: ../leetcode/tool/hashSet.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\CProject\1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building C object CMakeFiles/1.dir/leetcode/tool/hashSet.c.obj"
+	D:\mingw-w64\mingw64\bin\gcc.exe  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\1.dir\leetcode\tool\hashSet.c.obj   -c D:\CProject\1\leetcode\tool\hashSet.c
+
+CMakeFiles/1.dir/leetcode/tool/hashSet.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/1.dir/leetcode/tool/hashSet.c.i"
+	D:\mingw-w64\mingw64\bin\gcc.exe  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\CProject\1\leetcode\tool\hashSet.c > CMakeFiles\1.dir\leetcode\tool\hashSet.c.i
+
+CMakeFiles/1.dir/leetcode/tool/hashSet.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/1.dir/leetcode/tool/hashSet.c.s"
+	D:\mingw-w64\mingw64\bin\gcc.exe  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\CProject\1\leetcode\tool\hashSet.c -o CMakeFiles\1.dir\leetcode\tool\hashSet.c.s
+
+CMakeFiles/1.dir/leetcode/tool/hashSet.c.obj.requires:
+
+.PHONY : CMakeFiles/1.dir/leetcode/tool/hashSet.c.obj.requires
+
+CMakeFiles/1.dir/leetcode/tool/hashSet.c.obj.provides: CMakeFiles/1.dir/leetcode/tool/hashSet.c.obj.requires
+	$(MAKE) -f CMakeFiles\1.dir\build.make CMakeFiles/1.dir/leetcode/tool/hashSet.c.obj.provides.build
+.PHONY : CMakeFiles/1.dir/leetcode/tool/hashSet.c.obj.provides
+
+CMakeFiles/1.dir/leetcode/tool/hashSet.c.obj.provides.build: CMakeFiles/1.dir/leetcode/tool/hashSet.c.obj
+
+
 # Object files for target 1
 1_OBJECTS = \
 "CMakeFiles/1.dir/main.c.obj" \
@@ -582,7 +630,9 @@ CMakeFiles/1.dir/leetcode/tool/gcd_lcm.c.obj.provides.build: CMakeFiles/1.dir/le
 "CMakeFiles/1.dir/leetcode/medium/nthUglyNumber.c.obj" \
 "CMakeFiles/1.dir/leetcode/easy/pascalTriangle.c.obj" \
 "CMakeFiles/1.dir/leetcode/easy/uglyNumI.c.obj" \
-"CMakeFiles/1.dir/leetcode/tool/gcd_lcm.c.obj"
+"CMakeFiles/1.dir/leetcode/tool/gcd_lcm.c.obj" \
+"CMakeFiles/1.dir/leetcode/tool/myQueue.c.obj" \
+"CMakeFiles/1.dir/leetcode/tool/hashSet.c.obj"
 
 # External object files for target 1
 1_EXTERNAL_OBJECTS =
@@ -608,11 +658,13 @@ CMakeFiles/1.dir/leetcode/tool/gcd_lcm.c.obj.provides.build: CMakeFiles/1.dir/le
 1.exe: CMakeFiles/1.dir/leetcode/easy/pascalTriangle.c.obj
 1.exe: CMakeFiles/1.dir/leetcode/easy/uglyNumI.c.obj
 1.exe: CMakeFiles/1.dir/leetcode/tool/gcd_lcm.c.obj
+1.exe: CMakeFiles/1.dir/leetcode/tool/myQueue.c.obj
+1.exe: CMakeFiles/1.dir/leetcode/tool/hashSet.c.obj
 1.exe: CMakeFiles/1.dir/build.make
 1.exe: CMakeFiles/1.dir/linklibs.rsp
 1.exe: CMakeFiles/1.dir/objects1.rsp
 1.exe: CMakeFiles/1.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\CProject\1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Linking C executable 1.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\CProject\1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Linking C executable 1.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\1.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -641,6 +693,8 @@ CMakeFiles/1.dir/requires: CMakeFiles/1.dir/leetcode/medium/nthUglyNumber.c.obj.
 CMakeFiles/1.dir/requires: CMakeFiles/1.dir/leetcode/easy/pascalTriangle.c.obj.requires
 CMakeFiles/1.dir/requires: CMakeFiles/1.dir/leetcode/easy/uglyNumI.c.obj.requires
 CMakeFiles/1.dir/requires: CMakeFiles/1.dir/leetcode/tool/gcd_lcm.c.obj.requires
+CMakeFiles/1.dir/requires: CMakeFiles/1.dir/leetcode/tool/myQueue.c.obj.requires
+CMakeFiles/1.dir/requires: CMakeFiles/1.dir/leetcode/tool/hashSet.c.obj.requires
 
 .PHONY : CMakeFiles/1.dir/requires
 

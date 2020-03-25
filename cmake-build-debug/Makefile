@@ -581,6 +581,33 @@ leetcode/tool/gcd_lcm.c.s:
 	$(MAKE) -f CMakeFiles\1.dir\build.make CMakeFiles/1.dir/leetcode/tool/gcd_lcm.c.s
 .PHONY : leetcode/tool/gcd_lcm.c.s
 
+leetcode/tool/hashSet.obj: leetcode/tool/hashSet.c.obj
+
+.PHONY : leetcode/tool/hashSet.obj
+
+# target to build an object file
+leetcode/tool/hashSet.c.obj:
+	$(MAKE) -f CMakeFiles\1.dir\build.make CMakeFiles/1.dir/leetcode/tool/hashSet.c.obj
+.PHONY : leetcode/tool/hashSet.c.obj
+
+leetcode/tool/hashSet.i: leetcode/tool/hashSet.c.i
+
+.PHONY : leetcode/tool/hashSet.i
+
+# target to preprocess a source file
+leetcode/tool/hashSet.c.i:
+	$(MAKE) -f CMakeFiles\1.dir\build.make CMakeFiles/1.dir/leetcode/tool/hashSet.c.i
+.PHONY : leetcode/tool/hashSet.c.i
+
+leetcode/tool/hashSet.s: leetcode/tool/hashSet.c.s
+
+.PHONY : leetcode/tool/hashSet.s
+
+# target to generate assembly for a file
+leetcode/tool/hashSet.c.s:
+	$(MAKE) -f CMakeFiles\1.dir\build.make CMakeFiles/1.dir/leetcode/tool/hashSet.c.s
+.PHONY : leetcode/tool/hashSet.c.s
+
 leetcode/tool/mergeSort.obj: leetcode/tool/mergeSort.c.obj
 
 .PHONY : leetcode/tool/mergeSort.obj
@@ -607,6 +634,33 @@ leetcode/tool/mergeSort.s: leetcode/tool/mergeSort.c.s
 leetcode/tool/mergeSort.c.s:
 	$(MAKE) -f CMakeFiles\1.dir\build.make CMakeFiles/1.dir/leetcode/tool/mergeSort.c.s
 .PHONY : leetcode/tool/mergeSort.c.s
+
+leetcode/tool/myQueue.obj: leetcode/tool/myQueue.c.obj
+
+.PHONY : leetcode/tool/myQueue.obj
+
+# target to build an object file
+leetcode/tool/myQueue.c.obj:
+	$(MAKE) -f CMakeFiles\1.dir\build.make CMakeFiles/1.dir/leetcode/tool/myQueue.c.obj
+.PHONY : leetcode/tool/myQueue.c.obj
+
+leetcode/tool/myQueue.i: leetcode/tool/myQueue.c.i
+
+.PHONY : leetcode/tool/myQueue.i
+
+# target to preprocess a source file
+leetcode/tool/myQueue.c.i:
+	$(MAKE) -f CMakeFiles\1.dir\build.make CMakeFiles/1.dir/leetcode/tool/myQueue.c.i
+.PHONY : leetcode/tool/myQueue.c.i
+
+leetcode/tool/myQueue.s: leetcode/tool/myQueue.c.s
+
+.PHONY : leetcode/tool/myQueue.s
+
+# target to generate assembly for a file
+leetcode/tool/myQueue.c.s:
+	$(MAKE) -f CMakeFiles\1.dir\build.make CMakeFiles/1.dir/leetcode/tool/myQueue.c.s
+.PHONY : leetcode/tool/myQueue.c.s
 
 longestComPre.obj: longestComPre.c.obj
 
@@ -749,9 +803,15 @@ help:
 	@echo ... leetcode/tool/gcd_lcm.obj
 	@echo ... leetcode/tool/gcd_lcm.i
 	@echo ... leetcode/tool/gcd_lcm.s
+	@echo ... leetcode/tool/hashSet.obj
+	@echo ... leetcode/tool/hashSet.i
+	@echo ... leetcode/tool/hashSet.s
 	@echo ... leetcode/tool/mergeSort.obj
 	@echo ... leetcode/tool/mergeSort.i
 	@echo ... leetcode/tool/mergeSort.s
+	@echo ... leetcode/tool/myQueue.obj
+	@echo ... leetcode/tool/myQueue.i
+	@echo ... leetcode/tool/myQueue.s
 	@echo ... longestComPre.obj
 	@echo ... longestComPre.i
 	@echo ... longestComPre.s
